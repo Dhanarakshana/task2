@@ -13,7 +13,6 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
        <meta charset="UTF-8">
        <meta http-equiv="X-CA-compatible" content="IE-edge">
        <meta name="viewport" content="width=device-width" initial-scale="1.0">
-       
        <title>Responsive cake website</title>
        <link rel="stylesheet" type="text/css" href="css/style.css">
 
@@ -39,7 +38,6 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
        button a{
         color: white; font-weight: bold; font-size: 15px;
        }
-       
        /*change the color of the links on hover*/
        .topnav a:hover{
         background-color: #ddd;
