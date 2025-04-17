@@ -145,8 +145,7 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
         <a href="" class="button">Read More</a>
     </div>
     </div>
-
-    <div class="card">
+<div class="card">
         <img src="canvacake2.png">
         <div class="card-content">
             <h3>Card 2</h3>
@@ -154,8 +153,7 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
         <a href="" class="button">Read More</a>
     </div>
     </div>
-
-    <div class="card">
+<div class="card">
         <img src="canvacake3.png">
         <div class="card-content">
             <h3>Card 3</h3>
@@ -163,8 +161,7 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
         <a href="" class="button">Read More</a>
     </div>
     </div>
-
-    <div class="card">
+<div class="card">
         <img src="newcake.png">
         <div class="card-content">
             <h3>Card 4</h3>
@@ -172,7 +169,6 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
         <a href="" class="button">Read More</a>
     </div>
     </div>
-
     <div class="card">
         <img src="newcake2.png">
         <div class="card-content">
@@ -181,7 +177,6 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
         <a href="" class="button">Read More</a>
     </div>
     </div>
-    
     <div class="card">
         <img src="newcake3.png">
         <div class="card-content">
@@ -233,4 +228,14 @@ The design is simple, user-friendly, and visually sweet—focused on making cake
 
 
 ##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5b37693e-3cb0-470c-bbe2-f9bde7bad0dc)
+
+![Image](https://github.com/user-attachments/assets/adef795e-9ccd-4806-a276-251707e1c11b)
+
+![Image](https://github.com/user-attachments/assets/c13f94bf-3ee1-4def-b4ec-369a23e68e68)
+
+![Image](https://github.com/user-attachments/assets/7ee2946d-765f-4421-b8f8-fd87bc124605)
+
+![Image](https://github.com/user-attachments/assets/14fc4665-9b63-4afd-b4c4-5fb62da2a5bb)
 
